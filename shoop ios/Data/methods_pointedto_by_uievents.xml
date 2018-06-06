@@ -1,0 +1,8 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="LevelManager">
+			<method name="LoadNextScene"/>
+			<method name="LoadPreviousScene"/>
+		</type>
+	</assembly>
+</linker>
