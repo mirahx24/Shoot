@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A42F31C5-8B42-3699-6387-C398FFBDA5E9}|Unit Tests">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleVR/Demos/ControllerDemo/ControllerDemoManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/ScoreKeeper.cs" Line="12" Column="2" />
+      <File FileName="Assets/Scripts/TImeDisplay.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ScoreDIsplay.cs" Line="20" Column="3" />
+      <File FileName="Assets/Scripts/BallLauncher.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DetectScore.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/LevelManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ScoreAbsorber.cs" Line="12" Column="19" />
+      <File FileName="Assets/Scripts/GameOverScore.cs" Line="11" Column="17" />
+      <File FileName="Assets/GoogleVR/Demos/ControllerDemo/ControllerDemoManager.cs" Line="25" Column="32" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp-Editor PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
